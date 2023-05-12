@@ -6,8 +6,8 @@ Wipes all vehicles on server periodically using cron.
 ## Feature
 - Configurable time cron.
 
-- Preview
-Coming soon
+## Preview
+- [Preview](https://streamable.com/kzrx7a)
 
 ## Framework
 - Any
