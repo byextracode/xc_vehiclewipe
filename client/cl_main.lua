@@ -33,7 +33,7 @@ end)
 RegisterNetEvent("xc_vehiclewipe:status", function(status, min)
     active = status
     time = min * 60
-    saved = {}
+    saved = active and saved or {}
     if active and time < 2 then
         active = false
         time = 0
