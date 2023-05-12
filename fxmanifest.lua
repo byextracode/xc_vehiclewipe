@@ -3,7 +3,7 @@ lua54 "yes"
 game "gta5"
 
 name "xc_vehiclewipe"
-version "0.1.0"
+version "1.0.0"
 description "Periodically wipes vehicles on server"
 author "wibowo#7184"
 
