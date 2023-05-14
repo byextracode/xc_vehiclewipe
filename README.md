@@ -5,6 +5,7 @@ Wipes all vehicles on server periodically using cron.
 
 ## Feature
 - Configurable time cron.
+- Excludes vehicle by enter them while warning occurs and stay inside vehicle for 3 seconds.
 
 ## Preview
 - [Preview](https://streamable.com/kzrx7a)
