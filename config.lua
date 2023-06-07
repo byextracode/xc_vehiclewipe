@@ -1,5 +1,7 @@
 Config  = {}
 
+Config.versionCheck = true -- check for updates
+
 Config.commandname = "vehiclewipe"
 Config.Locale = "en"
 
